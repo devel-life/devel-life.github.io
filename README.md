@@ -1,4 +1,3 @@
 # devel-life
 
-
-for dns
+canceled 
